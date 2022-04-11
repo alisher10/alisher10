@@ -4,6 +4,7 @@
 - 👯 I’m looking for internship/work to get some valuable experience and just have a good time
 - ⚡ Fun fact: I'm adore of watching intellectual TV program - "Что? Где? Когда?"
 - 😻 Goal for 2022: To contribute more into github and become middle developer
+- 🧾 CV [LINK] https://github.com/alisher10/CV/blob/main/Alisher%20Khamidov%20CV.pdf
 
 ### Connect with me:
 
