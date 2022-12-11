@@ -1,4 +1,4 @@
-# Hello everyone, I'm Alisher Khamidov - Mobile Developer 👋 
+# Hello everyone, I'm Alisher Khamidov - Software Engineer 👋 
 
 - 🌱 Currently performing skills in app development by using Flutter
 - 👯 I’m looking for internship/work to get some valuable experience and just have a good time
