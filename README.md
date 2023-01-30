@@ -9,7 +9,6 @@
 ### Connect with me:
 
 my email: aliappdev21@gmail.com
-insta: khamidoff_ali
 
 
 ### Languages and Tools:
