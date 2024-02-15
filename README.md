@@ -1,9 +1,8 @@
 # Hello everyone, I'm Alisher Khamidov - Software Engineer 👋 
 
-- 🌱 Currently performing skills in app development by using Flutter
-- 👯 I’m looking for internship/work to get some valuable experience and just have a good time
+- 🌱 Currently performing skills in Automated Testing using .NET
+- 👯 I’m looking for interesting projects to get valuable experience and just have a good time
 - ⚡ Fun fact: I'm adore of watching intellectual TV program - "Что? Где? Когда?"
-- 😻 Goal for 2022: To contribute more into github and become middle developer
 
 
 ### Connect with me:
